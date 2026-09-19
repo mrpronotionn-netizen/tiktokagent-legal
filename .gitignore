@@ -6,3 +6,5 @@
 secrets.json
 config/local
 tiktok_tokens.json
+__pycache__/
+*.pyc
